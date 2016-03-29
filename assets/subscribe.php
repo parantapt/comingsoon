@@ -10,7 +10,7 @@ function isEmail($email) {
 if($_POST) {
 
     
-    $emailTo = 'pyt5081@psu.edu';
+    $emailTo = 'parantapt95@gmail.com';
 
     $subscriber_email = addslashes(trim($_POST['email']));
 
